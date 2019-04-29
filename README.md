@@ -15,3 +15,6 @@ We don't know yet what will make it different but it will be! Just you wait and 
 
 ## 5. Music collab game
 This will be a fun web-based, co-op game where people will join and pick an instrument and play together without any prior music experience. I think it will be fun don't you?
+
+## 6. Website parsers
+This will scrape information off websites from which we can create other websites. How a-mei-zing?
